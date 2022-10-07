@@ -3,15 +3,14 @@ The first question was: Find open ports on this machine
 we will use nmap to scan on our target to see what ports are opened
 nmap -sV -A 10.10.179.29
 
-ports 
-
-21 ftp annynous access 
-
+ports:
+21 ftp  
 22 ssh
+80 http
 
-80 
+as shown in the image below those are the open ports
 
-![](/../images/bh1.png)
+![](/images/bh1.png)
 
 
 We have completed the first question now the second question is: Who wrote the task list? 
