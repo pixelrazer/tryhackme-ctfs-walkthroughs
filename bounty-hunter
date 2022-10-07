@@ -1,3 +1,6 @@
+The first question was: Find open ports on this machine
+
+we will use nmap to scan on our target to see what ports are opened
 nmap -sV -A 10.10.179.29
 
 ports 
@@ -8,6 +11,10 @@ ports
 
 80 
 
+<img width="410" alt="bh1" src="https://user-images.githubusercontent.com/73919277/194673091-50c4b318-6c26-4d6a-b242-16117de7d546.png">
+
+
+We have completed the first question now the second question is: Who wrote the task list? 
 ftp was open for anonymous access so i needed to get in ftp is file transfer proticol
 
 i used 
