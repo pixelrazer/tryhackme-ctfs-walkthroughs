@@ -1,3 +1,5 @@
+Hello we are doing the bounty hunter ctf on tryhackme easy level
+
 The first question was: Find open ports on this machine
 
 we will use nmap to scan on our target to see what ports are opened
