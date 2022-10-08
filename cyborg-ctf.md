@@ -37,7 +37,7 @@ there is nothing useful in there so we have to do some directory enumeration on 
 
 you have to download gobuster to do that in your terminal type sudo apt get install gobuster and press y then let it install. once installed lets get started. i will show you the command to use below along with a screenshot as always. 
 
-![](/images/cy4.png)
+![](/images/cyy.png)
 
 gobuster dir -u http://10.10.239.240/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt 
 
@@ -49,7 +49,7 @@ gobuster dir is the type of scan we will do which is directory scan
 
 once your are all set press enter and let it run for 2 minutes or so. i let it run for 2 min or so and this is the results i got
 
-![](/images/cy5.png)
+![](/images/cyyy.png)
 
 it showed me two results: /admin and /etc
 
